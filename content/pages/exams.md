@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course exams, including the
+  midterm quiz, the take-home quiz, and the final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

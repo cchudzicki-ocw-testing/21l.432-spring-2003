@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course assignments, writing
+  requirements, a note about plagiarism, and guidelines for formatting and citation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

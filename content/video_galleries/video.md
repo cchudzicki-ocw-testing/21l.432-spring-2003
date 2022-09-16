@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section features videos of selected class sessions from the fall
+  2001 version of the course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

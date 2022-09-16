@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description, grading criteria, and the
+  format of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
